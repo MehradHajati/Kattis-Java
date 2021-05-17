@@ -1,6 +1,6 @@
+// Kattis, HelloWorld
+// https://open.kattis.com/problems/hello
 
-// Hello World! 
-// Kettis
 public class HelloWorld{
     public static void main(String[] args){
         System.out.println("Hello World!");
