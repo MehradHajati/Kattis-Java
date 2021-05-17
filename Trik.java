@@ -1,4 +1,5 @@
 // Kattis, Trik
+// https://open.kattis.com/problems/trik
 
 import java.util.Scanner;
 
