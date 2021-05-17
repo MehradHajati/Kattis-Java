@@ -1,4 +1,5 @@
-//Kattis, Sibice
+// Kattis, Sibice
+// https://open.kattis.com/problems/sibice
 
 import java.util.Scanner;
 
