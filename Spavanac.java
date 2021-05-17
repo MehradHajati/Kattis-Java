@@ -1,4 +1,5 @@
-//Kattis, Spavanac
+// Kattis, Spavanac
+// https://open.kattis.com/problems/spavanac
 
 
 import java.util.Scanner; 
