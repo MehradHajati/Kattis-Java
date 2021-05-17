@@ -1,4 +1,5 @@
 // Kattis, ShatteredCake
+// https://open.kattis.com/problems/shatteredcake
 
 import java.util.Scanner;
 
