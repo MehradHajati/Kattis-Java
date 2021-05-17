@@ -1,4 +1,5 @@
-//Kattis, QualityAdjustedLife
+// Kattis, QualityAdjustedLife
+// https://open.kattis.com/problems/qaly
 
 import java.util.Scanner;
 
