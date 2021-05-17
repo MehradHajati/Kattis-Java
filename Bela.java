@@ -1,4 +1,5 @@
-//Kattis, Bela
+// Kattis, Bela
+// https://open.kattis.com/problems/bela
 
 import java.util.Scanner;
 
