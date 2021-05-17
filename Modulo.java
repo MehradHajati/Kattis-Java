@@ -1,4 +1,5 @@
-//Kattis, Modulo
+// Kattis, Modulo
+// https://open.kattis.com/problems/modulo
 
 import java.util.*;
 
