@@ -1,5 +1,5 @@
 // Kattis, Faktor
-
+// https://open.kattis.com/problems/faktor
 
 
 import java.util.Scanner;
