@@ -1,4 +1,5 @@
-//Kattis, HumanCannonball
+// Kattis, HumanCannonball
+// https://open.kattis.com/problems/humancannonball2
 
 
 import java.util.Scanner;
