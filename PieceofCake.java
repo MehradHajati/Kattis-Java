@@ -1,4 +1,5 @@
 // Kattis, PieceofCake
+// https://open.kattis.com/problems/pieceofcake2
 
 import java.util.Scanner;
 
