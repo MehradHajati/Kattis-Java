@@ -1,4 +1,5 @@
 // Kattis, JackOLantern
+// https://open.kattis.com/problems/jackolanternjuxtaposition
 
 import java.util.Scanner;
 
