@@ -1,8 +1,8 @@
-
-//Kattis, Oddities
-
+// Kattis, Oddities
+// https://open.kattis.com/problems/oddities
 
 import java.util.Scanner;
+
 public class Oddities{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
