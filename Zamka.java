@@ -1,4 +1,5 @@
-//kattis, Zamka
+// kattis, Zamka
+// https://open.kattis.com/problems/zamka
 
 import java.util.Scanner;
 import java.util.ArrayList;
