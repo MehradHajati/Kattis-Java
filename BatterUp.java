@@ -1,4 +1,5 @@
-//Kattis, BatterUp
+// Kattis, BatterUp
+// https://open.kattis.com/problems/batterup
 
 import java.util.Scanner;
 
