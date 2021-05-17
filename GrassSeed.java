@@ -1,4 +1,5 @@
-//Kattis, GrassSeed
+// Kattis, GrassSeed
+// https://open.kattis.com/problems/grassseed
 
 import java.util.Scanner;
 import java.text.NumberFormat;
