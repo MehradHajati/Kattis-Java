@@ -1,5 +1,5 @@
-//Kattis, Bijele
-
+// Kattis, Bijele
+// https://open.kattis.com/problems/bijele
 import java.util.Scanner;
 
 public class Bijele{
