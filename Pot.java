@@ -1,4 +1,5 @@
-//Kattis, Pot
+// Kattis, Pot
+// https://open.kattis.com/problems/pot
 
 import java.util.Scanner;
 
