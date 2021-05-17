@@ -1,4 +1,5 @@
 // Kattis, Ladder
+// https://open.kattis.com/problems/ladder
 
 
 import java.util.Scanner;
