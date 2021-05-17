@@ -1,4 +1,5 @@
-//Kattis, IsItHalloween
+// Kattis, IsItHalloween
+// https://open.kattis.com/problems/isithalloween
 
 import java.util.Scanner;
 
