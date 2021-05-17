@@ -1,5 +1,5 @@
-
 // Kettis, Pizza Crust
+// https://open.kattis.com/problems/pizza2
 
 import java.util.Scanner;
 
