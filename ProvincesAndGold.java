@@ -1,4 +1,5 @@
 // Kattis, Provinces and Gold
+// https://open.kattis.com/problems/provincesandgold
 
 import java.util.Scanner;
 
