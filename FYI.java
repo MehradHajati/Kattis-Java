@@ -1,4 +1,5 @@
-//Kattis, FYI
+// Kattis, FYI
+// https://open.kattis.com/problems/fyi
 
 import java.util.Scanner;
 
