@@ -1,4 +1,5 @@
-//Kattis, QuadrantSelection
+// Kattis, QuadrantSelection
+// https://open.kattis.com/problems/quadrant
 
 import java.util.Scanner;
 
