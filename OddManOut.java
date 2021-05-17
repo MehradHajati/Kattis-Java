@@ -1,4 +1,5 @@
-//Kattis, OddManOut
+// Kattis, OddManOut
+// https://open.kattis.com/problems/oddmanout
 
 import java.util.Scanner;
 import java.util.ArrayList;
