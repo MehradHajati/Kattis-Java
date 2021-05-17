@@ -1,4 +1,5 @@
-//Kattis, SolvingforCarrots
+// Kattis, SolvingforCarrots
+// https://open.kattis.com/problems/carrots
 
 import java.util.Scanner;
 
