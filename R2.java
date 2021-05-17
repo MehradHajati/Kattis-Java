@@ -1,4 +1,5 @@
 // Kattis, R2
+// https://open.kattis.com/problems/r2
 
 import java.util.Scanner;
 
