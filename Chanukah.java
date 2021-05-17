@@ -1,4 +1,5 @@
 // Kattis, Chanukah
+// https://open.kattis.com/problems/chanukah
 
 import java.util.Scanner;
 
