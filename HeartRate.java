@@ -1,4 +1,5 @@
 // Kattis, HeartRate
+// https://open.kattis.com/problems/heartrate
 
 import java.util.Scanner;
 
