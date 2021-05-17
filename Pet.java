@@ -1,4 +1,5 @@
 // Kattis, Pet
+// https://open.kattis.com/problems/pet
 
 import java.util.Scanner;
 
