@@ -1,4 +1,5 @@
-//Kattis, NastyHacks
+// Kattis, NastyHacks
+// https://open.kattis.com/problems/nastyhacks
 
 import java.util.Scanner;
 
