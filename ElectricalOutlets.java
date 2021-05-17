@@ -1,5 +1,5 @@
 // Kattis, ElectricalOutlets
-
+// https://open.kattis.com/problems/electricaloutlets
 
 import java.util.Scanner;
 
