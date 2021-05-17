@@ -1,4 +1,5 @@
-//Kattis, NumberFun
+// Kattis, NumberFun
+// https://open.kattis.com/problems/numberfun
 
 import java.util.Scanner;
 
