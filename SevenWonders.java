@@ -1,4 +1,5 @@
 // Kattis, SevenWonders
+// https://open.kattis.com/problems/sevenwonders
 
 import java.util.Scanner;
 
