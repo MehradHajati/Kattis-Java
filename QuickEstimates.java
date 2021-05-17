@@ -1,4 +1,5 @@
-//Kattis, QuickEstimates
+// Kattis, QuickEstimates
+// https://open.kattis.com/problems/quickestimate
 
 import java.util.Scanner;
 
