@@ -1,4 +1,5 @@
 // Kattis, LastFactorial
+// https://open.kattis.com/problems/lastfactorialdigit
 
 import java.util.Scanner;
 
