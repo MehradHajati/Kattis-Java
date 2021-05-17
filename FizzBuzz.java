@@ -1,4 +1,5 @@
-//Kattis, FizzBuzz
+// Kattis, FizzBuzz
+// https://open.kattis.com/problems/fizzbuzz
 
 import java.util.Scanner;
 
