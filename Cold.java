@@ -1,5 +1,5 @@
-//kattis, Cold
-
+// kattis, Cold
+// https://open.kattis.com/problems/cold
 import java.util.Scanner;
 
 public class Cold{
