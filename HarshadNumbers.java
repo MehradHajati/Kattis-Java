@@ -1,4 +1,5 @@
-//Kattis, Harshad Numbers
+// Kattis, Harshad Numbers
+// https://open.kattis.com/problems/harshadnumbers
 
 import java.util.Scanner;
 
