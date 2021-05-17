@@ -1,4 +1,5 @@
 // kattis, Autori
+// https://open.kattis.com/problems/autori
 
 import java.util.Scanner;
 
