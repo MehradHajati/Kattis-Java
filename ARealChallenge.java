@@ -1,5 +1,5 @@
-// Kettis, A Real Challenge
-
+// Kattis, A Real Challenge
+// https://open.kattis.com/problems/areal
 import java.util.Scanner;
 
 public class ARealChallenge{
