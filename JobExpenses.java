@@ -1,4 +1,5 @@
-//Kattis, JobExpenses
+// Kattis, JobExpenses
+// https://open.kattis.com/problems/jobexpenses
 
 import java.util.Scanner;
 
