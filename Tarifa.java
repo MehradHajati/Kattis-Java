@@ -1,4 +1,5 @@
 // Kattis, Tarifa
+// https://open.kattis.com/problems/tarifa
 
 import java.util.Scanner;
 
