@@ -1,4 +1,5 @@
-//Kattis, Greetings
+// Kattis, Greetings
+// https://open.kattis.com/problems/greetings2
 
 import java.util.Scanner;
 
