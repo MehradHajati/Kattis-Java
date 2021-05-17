@@ -1,4 +1,5 @@
-//Kattis, LicenseToLaunch
+// Kattis, LicenseToLaunch
+// https://open.kattis.com/problems/licensetolaunch
 
 import java.util.*;
 
