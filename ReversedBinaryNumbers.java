@@ -1,4 +1,5 @@
-//Kattis, ReversedBinaryNumbers
+// Kattis, ReversedBinaryNumbers
+// https://open.kattis.com/problems/reversebinary
 
 
 import java.util.Scanner;
