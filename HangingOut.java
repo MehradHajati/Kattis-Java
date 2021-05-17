@@ -1,4 +1,5 @@
-//Kattis, HangingOut
+// Kattis, HangingOut
+// https://open.kattis.com/problems/hangingout
 
 
 import java.util.Scanner;
