@@ -1,4 +1,5 @@
-//Kattis, JudgingMoose
+// Kattis, JudgingMoose
+// https://open.kattis.com/problems/judgingmoose
 
 import java.util.Scanner;
 
